@@ -1,0 +1,16 @@
+E:\Учёба\Intern MobiDev\Test tasks\Task2\Task2\bin\Debug\net5.0\Task2.exe
+E:\Учёба\Intern MobiDev\Test tasks\Task2\Task2\bin\Debug\net5.0\Task2.deps.json
+E:\Учёба\Intern MobiDev\Test tasks\Task2\Task2\bin\Debug\net5.0\Task2.runtimeconfig.json
+E:\Учёба\Intern MobiDev\Test tasks\Task2\Task2\bin\Debug\net5.0\Task2.runtimeconfig.dev.json
+E:\Учёба\Intern MobiDev\Test tasks\Task2\Task2\bin\Debug\net5.0\Task2.dll
+E:\Учёба\Intern MobiDev\Test tasks\Task2\Task2\bin\Debug\net5.0\ref\Task2.dll
+E:\Учёба\Intern MobiDev\Test tasks\Task2\Task2\bin\Debug\net5.0\Task2.pdb
+E:\Учёба\Intern MobiDev\Test tasks\Task2\Task2\obj\Debug\net5.0\Task2.csprojAssemblyReference.cache
+E:\Учёба\Intern MobiDev\Test tasks\Task2\Task2\obj\Debug\net5.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учёба\Intern MobiDev\Test tasks\Task2\Task2\obj\Debug\net5.0\Task2.AssemblyInfoInputs.cache
+E:\Учёба\Intern MobiDev\Test tasks\Task2\Task2\obj\Debug\net5.0\Task2.AssemblyInfo.cs
+E:\Учёба\Intern MobiDev\Test tasks\Task2\Task2\obj\Debug\net5.0\Task2.csproj.CoreCompileInputs.cache
+E:\Учёба\Intern MobiDev\Test tasks\Task2\Task2\obj\Debug\net5.0\Task2.dll
+E:\Учёба\Intern MobiDev\Test tasks\Task2\Task2\obj\Debug\net5.0\ref\Task2.dll
+E:\Учёба\Intern MobiDev\Test tasks\Task2\Task2\obj\Debug\net5.0\Task2.pdb
+E:\Учёба\Intern MobiDev\Test tasks\Task2\Task2\obj\Debug\net5.0\Task2.genruntimeconfig.cache
